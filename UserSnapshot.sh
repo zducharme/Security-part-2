@@ -1,6 +1,6 @@
-# Zachary Ducharme 11/10/19
 #!/bin/bash
 
+# Zachary Ducharme 11/10/19
 #
 ## Take snapshots of usernames each hour for comparison.
 #
